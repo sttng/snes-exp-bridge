@@ -4136,7 +4136,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x14_Odd_Even_MountingPin"
+		(property "Value" "MEC2-50-01-L-TH1"
 			(at 132.08 30.48 0)
 			(effects
 				(font
@@ -4144,7 +4144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_2x14_P2.00mm_Vertical_SMD"
+		(property "Footprint" "Library:SAMTEC_MEC2-50-01-X-TH1-WT"
 			(at 130.81 49.53 0)
 			(effects
 				(font

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MEC2-50-01-L-TH1-WT")(type "KiCad")(uri "C:/Users/ifreund/Downloads/MEC2-50-01-L-TH1-WT.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
